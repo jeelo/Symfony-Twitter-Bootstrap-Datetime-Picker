@@ -1,0 +1,24 @@
+{
+    "name": "kvdh/symfony-twitter-bootstrap-datetime-picker",
+    "description": "Twitter Bootstrap Datetime Picker vendor package for Symfony 2.x",
+    "keywords": ["twitter bootstrap","datetime picker","symfony"],
+    "homepage": "https://github.com/caoimhin/symfony-Twitter-Bootstrap-Datetime-Picker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Van Den Haute",
+            "email": "kevin@vandenhaute.me",
+            "homepage": "http://www.lonelycoder.be",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/framework-bundle": "2.*",
+        "kvdh/symfony-twitter-bootstrap": "2.3.*"
+    },
+    "autoload": {
+        "psr-0": { "Kvdh\\TwitterBootstrapDatetimePickerBundle": "" }
+    },
+    "target-dir": "Kvdh/TwitterBootstrapDatetimePickerBundle"
+}
