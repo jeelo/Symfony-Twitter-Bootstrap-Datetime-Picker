@@ -1,5 +1,5 @@
 {
-    "name": "kvdh/symfony-twitter-bootstrap-datetime-picker",
+    "name": "jeelo/symfony-twitter-bootstrap-datetime-picker",
     "description": "Twitter Bootstrap Datetime Picker vendor package for Symfony 2.x",
     "keywords": ["twitter bootstrap","datetime picker","symfony"],
     "homepage": "https://github.com/caoimhin/symfony-Twitter-Bootstrap-Datetime-Picker",
